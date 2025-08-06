@@ -13,13 +13,16 @@ No templates. No frameworks. Just raw HTML, CSS, JavaScript, and curiosity.
 ### 🧱 My First Portfolio — Built from Scratch  
 > “No templates. No frameworks. Just me, VS Code, and two weekends.”
 
+![Portfolio Screenshot](./public/ultimate-html-css-portfolio.png)
+
 This was my first real HTML & CSS project where I wrote every line myself.  
 - I structured the layout using semantic HTML tags and styled it with clean CSS.  
 - Learned about spacing, padding, responsive sections, and Sora font integration.  
 - The site includes an intro, work showcase, and contact section.  
 - Deployed via **Netlify** — which made going live feel magical.
 
-🔗 [Live Site](https://lnkd.in/dEmpDgVq)
+🔗 [Live Site](https://jd-portfolio-demo.netlify.app/)
+🔗 [GitHub Repo](https://github.com/JhulanD/ultimate-html-css-portfolio)
 
 ---
 
