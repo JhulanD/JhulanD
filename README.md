@@ -27,15 +27,20 @@ This was my first real HTML & CSS project where I wrote every line myself.
 ---
 
 ### 🧪 Google Homepage Clone — Rebuilding a Classic  
-> “Every `<div>`, `<input>`, `<class>` felt like a mini-masterclass.”
+> “Every `<div>`, `<input>`, `<class>` felt like a mini‑masterclass.”
 
-I challenged myself to recreate Google.com using just HTML & CSS:  
-- Used `position`, `margin`, `padding`, and flexbox to align elements.  
-- Styled the search bar, buttons, footer, and minimal branding elements.  
-- Made it pixel-close without using any frameworks.  
+<p align="center">
+  <img src="public/html-css-google-homepage-Screenshot.png" alt="Google homepage clone screenshot" width="700"/>
+</p>
+
+I challenged myself to recreate Google.com using just HTML & CSS:
+- Used `position`, `margin`, `padding`, and flexbox to align elements.
+- Styled the search bar, buttons, footer, and minimal branding elements.
+- Made it pixel-close without using any frameworks.
 - This helped me deeply understand layout and browser rendering.
 
 🔗 [Live Preview](https://lnkd.in/gw_2ACkN)
+
 
 ---
 
