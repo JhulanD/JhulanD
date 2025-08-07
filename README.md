@@ -59,17 +59,26 @@ These projects were based on starter tasks from **Sheryians Coding School**.
 
 ---
 
-### 📘 Meta Front-End Dev Course — My First Certification  
+---
+
+## 📜 Certifications
+
+### 🎓 Introduction to Front-End Development by Meta (Coursera)
+
 > “It’s a small milestone, but one that reflects the discipline and passion it takes to grow in this field.”
 
-I completed Meta’s **Introduction to Front-End Development** course on Coursera.  
-It helped clarify key concepts:
-- How the web works (HTML/CSS/JS basics)
-- File structuring, browser rendering, and accessibility
-- Version control with Git & GitHub
-- Developer tools and a roadmap for future learning
+<p align="center">
+  <img src="public/meta-intro-frontend-cert.jpg" alt="Meta Coursera Certificate - Introduction to Front-End Development" width="700"/>
+</p>
 
-📜 [Course Link (Coursera)](https://www.coursera.org/learn/introduction-to-front-end-development)
+I completed Meta’s **Introduction to Front-End Development** course on Coursera, which helped clarify key foundational concepts:
+- 🔍 How the web works (HTML, CSS, JavaScript basics)
+- 🗂️ File structuring, browser rendering, and accessibility
+- 🛠️ Developer tools like Git, GitHub, browser DevTools
+- 🗺️ Roadmap for front-end career progression
+
+📄 [View Certificate (PDF)](public/Coursera%208SV9FX571MXA.pdf)
+
 
 ---
 
