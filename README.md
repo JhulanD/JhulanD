@@ -1,4 +1,4 @@
-# 👨‍💻 Learning in Public — The CodeJD Journey
+## <h1>👨‍💻 Learning in Public — The CodeJD Journey
 
 Hey, I’m Jhulan — you might know me online as **CodeJD**.
 
@@ -6,7 +6,23 @@ This repo (`JhulanD`) is not a portfolio — it’s my **code journal**. After y
 
 No templates. No frameworks. Just raw HTML, CSS, JavaScript, and curiosity.
 
+
+<p>
+🌍 <strong>Location</strong> – India 🇮🇳 <br>
+🖥️ <strong>Portfolio</strong> – <a href="https://jd-portfolio-demo.netlify.app/">jd-portfolio-demo.netlify.app</a> <br>
+✉️ <strong>Contact</strong> – jhulandey@gmail.com <br>
+🧠 <strong>Currently Learning</strong> – Webflow and JavaScript <br>
+⚡ <em>"Enjoying the process so far. Never thought I will."</em> — CodeJD
+</p>
+
 ---
+<h2>🛠️ Tools & Technologies</h2>
+
+
+<div align="left" style="padding:40px"> <table cellpadding="40"> <tr> <td align="left"><strong>👨‍💻 Programming Languages</strong></td> <td align="right"> <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python"/> </a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/> </a> </td> </tr> <tr> <td align="left"><strong>🧱 Frontend Technologies</strong></td> <td align="right"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/> </a>&nbsp;&nbsp; <a href="https://www.w3.org/TR/CSS/#css" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/> </a> </td> </tr> <tr> <td align="left"><strong>🛠 Code Editors</strong></td> <td align="right"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code"/> </a> </td> </tr> <tr> <td align="left"><strong>🎨 Design & No-Code Tools</strong></td> <td align="right"> <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/> </a>&nbsp;&nbsp; <a href="https://framer.com" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer"/> </a>&nbsp;&nbsp; <a href="https://webflow.com/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" width="36" height="36" alt="Webflow"/> </a>&nbsp;&nbsp; <a href="https://wix.com" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix"/> </a> </td> </tr> <tr> <td align="left"><strong>🎬 Video & Motion Graphics</strong></td> <td align="right"> <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="36" height="36" alt="Photoshop"/> </a>&nbsp;&nbsp; <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="36" height="36" alt="After Effects"/> </a>&nbsp;&nbsp; <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/768px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549" width="36" height="36" alt="Premiere Pro"/> </a> </td> </tr> <tr> <td align="left"><strong>🗃️ Databases & Analytics</strong></td> <td align="right"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/> </a>&nbsp;&nbsp; <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/> </a>&nbsp;&nbsp; <a href="https://www.tableau.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="36" height="36" alt="Tableau"/> </a>&nbsp;&nbsp; <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI"/> </a> </td> </tr> </table> </div>
+
+---
+
 
 ## ✨ What I’ve Built So Far
 
