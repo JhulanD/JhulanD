@@ -1,15 +1,14 @@
 ### <h1>👋 Hello World! — I'm Jhulan Dey</h1>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhulandey/)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://jd-portfolio-demo.netlify.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/jhulandey)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jhulandey/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jhulandey)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/jhulandey)
-[![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)](https://www.framer.com/?via=jhulan96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhulandey/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jhulandey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhulandey/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jhulandey)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jhulandey)
+[![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/?via=jhulan96)
 <a href="https://contra.com/jhulandey" target="_blank">
-  <img src="https://raw.githubusercontent.com/JhulanD/JhulanD/main/public/contrabadge.svg" width="120" alt="Contra" />
+  <img src="https://raw.githubusercontent.com/JhulanD/JhulanD/main/public/contrabadge.svg" width="150" alt="Contra" />
 </a>
 
 
@@ -149,11 +148,9 @@ Even though it was 2.5 hours long, I took two days to go through it, pausing to 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
@@ -165,16 +162,6 @@ This isn’t a showcase. It’s a **public logbook** of my transition from no-co
 
 Every project here is a building block toward becoming a front-end developer.  
 I believe in learning in public — and in keeping things real, messy, and human.
-
----
-
-## 🤝 Connect with Me
-
-Want to share your own learning journey? Or just say hey?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@jhulandey-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhulandey)  
-[![Twitter](https://img.shields.io/badge/Twitter-@jhulandey-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jhulandey)  
-[![GitHub](https://img.shields.io/badge/GitHub-CodeJD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhulanD)
 
 ---
 
