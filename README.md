@@ -1,19 +1,49 @@
-## <h1>👨‍💻 Learning in Public — The CodeJD Journey
+## 👋 Hello World! — I'm <span style="color: #0077b6;"><strong>Jhulan Dey</strong></span>
 
-Hey, I’m Jhulan — you might know me online as **CodeJD**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhulandey/)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://jd-portfolio-demo.netlify.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/jhulandey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jhulandey/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@jhulandey)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/jhulandey)
+[![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)](https://www.framer.com/?via=jhulan96)
+<a href="https://contra.com/jhulandey" target="_blank">
+  <img src="https://raw.githubusercontent.com/JhulanD/JhulanD/main/public/contrabadge.svg" width="120" alt="Contra" />
+</a>
 
-This repo (`JhulanD`) is not a portfolio — it’s my **code journal**. After years of building with Webflow and Framer, I decided to go back to the basics and learn front-end development from scratch.
 
-No templates. No frameworks. Just raw HTML, CSS, JavaScript, and curiosity.
+### Really glad to see you drop by!
+
+I’m a self-taught Webflow and Framer developer, currently diving deeper into the world of front-end web technologies out of pure curiosity.
+
+After years of building visually polished sites with no-code tools, I felt a strong urge to understand what happens under the hood. That curiosity led me back to the basics—HTML, CSS, JavaScript—and the challenges that come with real web development.
+
+I enjoy solving problems, learning in public, and crafting digital experiences that feel as good as they look.
+tch.
 
 
 <p>
 🌍 <strong>Location</strong> – India 🇮🇳 <br>
 🖥️ <strong>Portfolio</strong> – <a href="https://jd-portfolio-demo.netlify.app/">jd-portfolio-demo.netlify.app</a> <br>
-✉️ <strong>Contact</strong> – jhulandey@gmail.com <br>
-🧠 <strong>Currently Learning</strong> – Webflow and JavaScript <br>
+✉️ <strong>Reach me</strong> – <a href="mailto:jhulandey@gmail.com">jhulandey@gmail.com</a><br>
+🧠 <strong>Currently Learning</strong> – Webflow and JavaScript <br><br>
 ⚡ <em>"Enjoying the process so far. Never thought I will."</em> — CodeJD
 </p>
+
+## 📈 My GitHub Stats:
+
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JhulanD&show_icons=true&theme=default" alt="JhulanD GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhulanD&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 <h2>🛠️ Tools & Technologies</h2>
