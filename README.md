@@ -1,4 +1,5 @@
-## 👋 Hello World! — I'm <span style="color: #0077b6;"><strong>Jhulan Dey</strong></span>
+### <h1>👋 Hello World! — I'm Jhulan Dey</h1>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhulandey/)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://jd-portfolio-demo.netlify.app/)
