@@ -25,7 +25,9 @@ tch.
 <p>
 🌍 <strong>Location</strong> – India 🇮🇳 <br>
 🖥️ <strong>Portfolio</strong> – <a href="https://jd-portfolio-demo.netlify.app/">jd-portfolio-demo.netlify.app</a> <br>
-✉️ <strong>Reach me</strong> – <a href="mailto:jhulandey@gmail.com">jhulandey@gmail.com</a><br>
+✉️ <strong>Reach me</strong> – <a href="mailto:jhulandey.now@outlook.in
+">jhulandey.now@outlook.in
+</a><br>
 🧠 <strong>Currently Learning</strong> – Webflow and JavaScript <br><br>
 ⚡ <em>"Enjoying the process so far. Never thought I will."</em> — CodeJD
 </p>
