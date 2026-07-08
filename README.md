@@ -28,7 +28,7 @@ tch.
 ✉️ <strong>Reach me</strong> – <a href="mailto:jhulandey.now@outlook.in
 ">jhulandey.now@outlook.in
 </a><br>
-🧠 <strong>Currently Learning</strong> – Webflow and JavaScript <br><br>
+🧠 <strong>Currently Learning</strong> – Python<br><br>
 ⚡ <em>"Enjoying the process so far. Never thought I will."</em> — CodeJD
 </p>
 
