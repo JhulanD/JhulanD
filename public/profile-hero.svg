@@ -1,0 +1,32 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="70" y1="40" x2="1130" y2="320" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#7C3AED"/>
+    <stop offset="0.5" stop-color="#06B6D4"/>
+    <stop offset="1" stop-color="#22C55E"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="180" y1="0" x2="1040" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#7C3AED" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#06B6D4" stop-opacity=".04"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="360" rx="28" fill="#0B1020"/>
+<rect x="1" y="1" width="1198" height="358" rx="27" stroke="#25304A"/>
+<circle cx="1010" cy="75" r="155" fill="url(#glow)"/>
+<path d="M40 275 C155 210 190 315 300 245 S500 175 610 240 S815 325 930 230 S1080 170 1160 215" stroke="url(#g)" stroke-width="2" opacity=".8"/>
+<path d="M40 292 C155 227 190 332 300 262 S500 192 610 257 S815 342 930 247 S1080 187 1160 232" stroke="url(#g)" stroke-width="1" opacity=".35"/>
+<g opacity=".45" stroke="#33415F">
+  <path d="M700 35V325M780 35V325M860 35V325M940 35V325M1020 35V325"/>
+  <path d="M660 75H1120M660 135H1120M660 195H1120M660 255H1120"/>
+</g>
+<text x="72" y="95" fill="#8B9BB8" font-family="Inter,Arial,sans-serif" font-size="15" letter-spacing="4">JHULAN DEY / 2026</text>
+<text x="72" y="158" fill="white" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="700">Data • Automation • Engineering</text>
+<text x="72" y="198" fill="#B7C2D8" font-family="Inter,Arial,sans-serif" font-size="19">20+ years of workflow leadership → building modern data systems.</text>
+<rect x="72" y="232" width="155" height="36" rx="18" fill="#161F34" stroke="#33415F"/>
+<text x="149.5" y="255" text-anchor="middle" fill="#D8E0EF" font-family="Inter,Arial,sans-serif" font-size="13">SQL + MySQL</text>
+<rect x="239" y="232" width="130" height="36" rx="18" fill="#161F34" stroke="#33415F"/>
+<text x="304" y="255" text-anchor="middle" fill="#D8E0EF" font-family="Inter,Arial,sans-serif" font-size="13">Python →</text>
+<rect x="381" y="232" width="135" height="36" rx="18" fill="#161F34" stroke="#33415F"/>
+<text x="448.5" y="255" text-anchor="middle" fill="#D8E0EF" font-family="Inter,Arial,sans-serif" font-size="13">Automation</text>
+<text x="1070" y="318" text-anchor="end" fill="#687793" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing="2">LEARN / BUILD / SHIP</text>
+</svg>
