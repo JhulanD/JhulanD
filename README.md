@@ -4,41 +4,31 @@
 
 ### `DATA ENGINEERING • AUTOMATION • ANALYTICS`
 
-<a href="https://www.linkedin.com/in/jhulandey/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://jd-portfolio-demo.netlify.app/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/JhulanD">GitHub</a>
-&nbsp;·&nbsp;
-<a href="mailto:jhulandey.now@outlook.in">Email</a>
-
 </div>
-
----
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-## About
+## Jhulan Dey
 
-I'm **Jhulan Dey** — a career changer moving from **20+ years of media operations and production workflows** into data engineering.
+**Data / Automation / Engineering**
 
-I like building systems that make messy work **structured, repeatable and measurable**.
+I'm a career changer moving from **20+ years of media operations and production workflows** into data engineering.
 
-Currently focused on:
+I build systems that turn messy work into **structured, repeatable and measurable workflows**.
 
-`Python` · `SQL` · `Data Modeling` · `ETL/ELT` · `APIs` · `Git`
+**Currently building:** `Python` · `SQL` · `ETL/ELT` · `APIs` · `Data Modeling`
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-## Now
+### 2026 / NOW
 
 **Applied Scale Intelligence**  
-AI Automation · 2026 → Present
+AI Automation · Present
 
-**Learning next**
+**Next**
 
 `Pandas`  
 `Cloud`  
@@ -52,78 +42,67 @@ AI Automation · 2026 → Present
 
 ---
 
-## The stack
+## A different kind of technical background
 
-**Data**
+```text
+OPERATIONS                    ENGINEERING
+20+ years                     now →
 
-`SQL` `MySQL` `PostgreSQL` `Excel`
+Production workflows    →     SQL / MySQL
+Process design          →     Automation / APIs
+Quality control         →     Python
+Systems thinking        →     ETL / Data Engineering
+```
 
-**Analytics**
-
-`Power BI` `Tableau` `Data Cleaning` `Reporting`
-
-**Automation**
-
-`Make.com` `n8n` `APIs` `Workflow Design`
-
-**Engineering**
-
-`Python →` `Git/GitHub →` `ETL/ELT →` `Cloud`
+I’m not rebuilding from zero. **I’m transferring systems thinking into a technical domain.**
 
 ---
 
-## What I bring
+## Built around four layers
 
-```text
-20+ years of production workflows
-          ↓
-process design + quality control
-          ↓
-automation + SQL + analytics
-          ↓
-Python + data engineering
-```
-
-I’m not starting my career from scratch — **I’m transferring systems thinking into a new technical domain.**
+| DATA | ANALYTICS | AUTOMATION | ENGINEERING |
+|---|---|---|---|
+| SQL · MySQL · PostgreSQL | Power BI · Tableau · Excel | Make.com · n8n · APIs | Python → · Git · ETL/ELT |
+| Cleaning · Modeling | Reporting · BI | Integrations · Workflows | Cloud · Pipelines |
 
 ---
 
 ## Selected work
 
-| Project | What it shows |
-|---|---|
-| **Automation Workflows** | API integrations, data movement, routing & operational reporting |
-| **HTML/CSS Portfolio** | Built from scratch, responsive layout & deployment |
-| **Google Homepage Recreation** | Layout, browser rendering & CSS fundamentals |
+**01 — Automation workflows**  
+API integrations · data movement · routing · operational reporting
+
+**02 — Responsive web builds**  
+HTML · CSS · JavaScript · deployment
+
+**03 — SQL & analytics projects**  
+Data cleaning · querying · analysis · reporting
 
 → [Portfolio](https://jd-portfolio-demo.netlify.app/) · [GitHub](https://github.com/JhulanD)
 
 ---
 
-## Learning in public
+## Learning trajectory
 
-```text
-SQL / MySQL             ████████████████████  solid
-Analytics / BI          ████████████████████  solid
-Automation / APIs       █████████████████░░░  hands-on
-Python                  ███████████░░░░░░░░░  building
-Data Engineering        ██████░░░░░░░░░░░░░░  next
-Cloud / Spark / dbt     ██░░░░░░░░░░░░░░░░░░  upcoming
-```
+`SQL / BI` ━━━━━━━━━━━ **FOUNDATION**
 
-No tool collecting.  
-**Learn → build → break → debug → repeat.**
+`Automation / APIs` ━━━━━━━━━ **HANDS-ON**
+
+`Python` ━━━━━━━ **BUILDING**
+
+`Data Engineering` ━━━━━ **NEXT**
+
+`Cloud / Spark / dbt` ━━ **UPCOMING**
+
+> **Learn → build → break → debug → repeat.**
 
 ---
 
-<div align="center">
+## Connect me
 
-### `Interested in data, automation or building better workflows?`
+**LinkedIn** · [linkedin.com/in/jhulandey](https://www.linkedin.com/in/jhulandey/)  
+**Portfolio** · [jd-portfolio-demo.netlify.app](https://jd-portfolio-demo.netlify.app/)  
+**GitHub** · [github.com/JhulanD](https://github.com/JhulanD)  
+**Email** · [jhulandey.now@outlook.in](mailto:jhulandey.now@outlook.in)
 
-<a href="mailto:jhulandey.now@outlook.in">Let's connect →</a>
-
-<br><br>
-
-<sub>Currently based in West Bengal, India · Open to entry-level data / analytics opportunities</sub>
-
-</div>
+<sub>West Bengal, India · Open to entry-level data / analytics opportunities</sub>
