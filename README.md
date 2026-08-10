@@ -88,7 +88,3 @@ Data cleaning · querying · analysis · reporting
 > **Learn → build → break → debug → repeat.**
 
 ---
-
-<div align="center">
-<sub>West Bengal, India · Open to entry-level data / analytics opportunities</sub>
-</div>
