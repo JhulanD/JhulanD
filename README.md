@@ -25,17 +25,9 @@ I build systems that turn messy work into **structured, repeatable and measurabl
 
 ### CONNECT WITH ME
 
-**LinkedIn**  
-[linkedin.com/in/jhulandey](https://www.linkedin.com/in/jhulandey/)
-
-**Portfolio**  
-[jd-portfolio-demo.netlify.app](https://jd-portfolio-demo.netlify.app/)
-
-**GitHub**  
-[github.com/JhulanD](https://github.com/JhulanD)
-
-**Email**  
-[jhulandey.now@outlook.in](mailto:jhulandey.now@outlook.in)
+`LinkedIn` → [linkedin.com/in/jhulandey](https://www.linkedin.com/in/jhulandey/)
+`Portfolio` → [jd-portfolio-demo.netlify.app](https://jd-portfolio-demo.netlify.app/)
+`Email` → [jhulandey.now@outlook.in](mailto:jhulandey.now@outlook.in)
 
 </td>
 </tr>
@@ -78,8 +70,6 @@ HTML · CSS · JavaScript · deployment
 
 **03 — SQL & analytics projects**  
 Data cleaning · querying · analysis · reporting
-
-→ [Portfolio](https://jd-portfolio-demo.netlify.app/) · [GitHub](https://github.com/JhulanD)
 
 ---
 
