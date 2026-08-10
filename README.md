@@ -1,171 +1,262 @@
-### <h1>👋 Hello World! — I'm Jhulan Dey</h1>
+<div align="center">
 
+# JHULAN DEY
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhulandey/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jhulandey)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhulandey/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jhulandey)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jhulandey)
-[![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/?via=jhulan96)
-<a href="https://contra.com/jhulandey" target="_blank">
-  <img src="https://raw.githubusercontent.com/JhulanD/JhulanD/main/public/contrabadge.svg" width="150" alt="Contra" />
-</a>
+### Data Engineering • Analytics • Automation
 
+**20+ years of workflow & operations experience → building modern data systems**
 
-### Really glad to see you drop by!
+[LinkedIn](https://www.linkedin.com/in/jhulandey/) ·
+[Portfolio](https://jd-portfolio-demo.netlify.app/) ·
+[GitHub](https://github.com/JhulanD) ·
+[Email](mailto:jhulandey.now@outlook.in)
 
-I’m a self-taught Webflow and Framer developer, currently diving deeper into the world of front-end web technologies out of pure curiosity.
-
-After years of building visually polished sites with no-code tools, I felt a strong urge to understand what happens under the hood. That curiosity led me back to the basics—HTML, CSS, JavaScript—and the challenges that come with real web development.
-
-I enjoy solving problems, learning in public, and crafting digital experiences that feel as good as they look.
-tch.
-
-
-<p>
-🌍 <strong>Location</strong> – India 🇮🇳 <br>
-🖥️ <strong>Portfolio</strong> – <a href="https://jd-portfolio-demo.netlify.app/">jd-portfolio-demo.netlify.app</a> <br>
-✉️ <strong>Reach me</strong> – <a href="mailto:jhulandey.now@outlook.in
-">jhulandey.now@outlook.in
-</a><br>
-🧠 <strong>Currently Learning</strong> – Python<br><br>
-⚡ <em>"Enjoying the process so far. Never thought I will."</em> — CodeJD
-</p>
-
-## 📈 My GitHub Stats:
-
-
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JhulanD&show_icons=true&theme=default" alt="JhulanD GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhulanD&layout=compact&theme=default" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-<h2>🛠️ Tools & Technologies</h2>
-
-
-<div align="left" style="padding:40px"> <table cellpadding="40"> <tr> <td align="left"><strong>👨‍💻 Programming Languages</strong></td> <td align="right"> <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python"/> </a>&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/> </a> </td> </tr> <tr> <td align="left"><strong>🧱 Frontend Technologies</strong></td> <td align="right"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/> </a>&nbsp;&nbsp; <a href="https://www.w3.org/TR/CSS/#css" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/> </a> </td> </tr> <tr> <td align="left"><strong>🛠 Code Editors</strong></td> <td align="right"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code"/> </a> </td> </tr> <tr> <td align="left"><strong>🎨 Design & No-Code Tools</strong></td> <td align="right"> <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/> </a>&nbsp;&nbsp; <a href="https://framer.com" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer"/> </a>&nbsp;&nbsp; <a href="https://webflow.com/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" width="36" height="36" alt="Webflow"/> </a>&nbsp;&nbsp; <a href="https://wix.com" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix"/> </a> </td> </tr> <tr> <td align="left"><strong>🎬 Video & Motion Graphics</strong></td> <td align="right"> <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="36" height="36" alt="Photoshop"/> </a>&nbsp;&nbsp; <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="36" height="36" alt="After Effects"/> </a>&nbsp;&nbsp; <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/768px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549" width="36" height="36" alt="Premiere Pro"/> </a> </td> </tr> <tr> <td align="left"><strong>🗃️ Databases & Analytics</strong></td> <td align="right"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/> </a>&nbsp;&nbsp; <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/> </a>&nbsp;&nbsp; <a href="https://www.tableau.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="36" height="36" alt="Tableau"/> </a>&nbsp;&nbsp; <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI"/> </a> </td> </tr> </table> </div>
+</div>
 
 ---
 
+## `01 / PROFILE`
 
-## ✨ What I’ve Built So Far
+I’m **Jhulan**, a career changer moving from two decades of media operations and production-pipeline leadership into **Data Engineering and Analytics Engineering**.
 
-### 🧱 My First Portfolio — Built from Scratch  
-> “No templates. No frameworks. Just me, VS Code, and two weekends.”
+My transition is built around a simple idea:
 
-![Portfolio Screenshot](./public/ultimate-html-css-portfolio.png)
+> **Take the discipline of building reliable workflows and apply it to reliable data systems.**
 
-This was my first real HTML & CSS project where I wrote every line myself.  
-- I structured the layout using semantic HTML tags and styled it with clean CSS.  
-- Learned about spacing, padding, responsive sections, and Sora font integration.  
-- The site includes an intro, work showcase, and contact section.  
-- Deployed via **Netlify** — which made going live feel magical.
+I already work comfortably with **SQL, MySQL, Excel, Power BI, Tableau, APIs, and workflow automation**.  
+Right now, I’m strengthening the engineering side of that foundation — **Python, data modeling, Git/GitHub, ETL/ELT, databases, and modern data platforms**.
 
-🔗 [Live Site](https://jd-portfolio-demo.netlify.app/)
-🔗 [GitHub Repo](https://github.com/JhulanD/ultimate-html-css-portfolio)
+I learn by building, documenting the process, and turning each new concept into something practical.
 
 ---
 
-### 🧪 Google Homepage Clone — Rebuilding a Classic  
-> “Every `<div>`, `<input>`, `<class>` felt like a mini‑masterclass.”
+## `02 / CURRENT DIRECTION`
 
-<p align="center">
-  <img src="public/html-css-google-homepage-Screenshot.png" alt="Google homepage clone screenshot" width="700"/>
-</p>
+```text
+OPERATIONS & WORKFLOW EXPERIENCE
+            │
+            ▼
+     SQL + DATA ANALYTICS
+            │
+            ▼
+   PYTHON + DATA MODELING
+            │
+            ▼
+       ETL / ELT + APIs
+            │
+            ▼
+     DATA ENGINEERING
+            │
+            ├── Cloud
+            ├── Warehouses
+            ├── Spark
+            ├── Orchestration
+            └── Data Quality
+```
 
-I challenged myself to recreate Google.com using just HTML & CSS:
-- Used `position`, `margin`, `padding`, and flexbox to align elements.
-- Styled the search bar, buttons, footer, and minimal branding elements.
-- Made it pixel-close without using any frameworks.
-- This helped me deeply understand layout and browser rendering.
+### Currently focused on
 
-🔗 [Live Preview](https://lnkd.in/gw_2ACkN)
+`Python` `Data Modeling` `SQL` `Git/GitHub` `ETL/ELT` `APIs` `Databases`
 
+### Next layer
 
----
-
-### 🎯 Flexbox Mini Projects — CSS in Action  
-> “Flexbox helped structure things. Absolute positioning brought balance.”
-
-Built 3 small landing-page style UIs using only HTML & CSS:  
-- Practiced vertical text scrolling using animations.  
-- Added image overlays for text contrast.  
-- Learned how to center content with `justify-content` and `align-items`.  
-- Used `z-index`, `position: absolute`, and responsive media queries.
-
-These projects were based on starter tasks from **Sheryians Coding School**.
-
-🔗 [GitHub Repo](https://lnkd.in/gVraU9dq)
-
----
-
----
-
-## 📜 Certifications
-
-### 🎓 Introduction to Front-End Development by Meta (Coursera)
-
-> “It’s a small milestone, but one that reflects the discipline and passion it takes to grow in this field.”
-
-<p align="center">
-  <img src="public/meta-intro-frontend-cert.jpg" alt="Meta Coursera Certificate - Introduction to Front-End Development" width="700"/>
-</p>
-
-I completed Meta’s **Introduction to Front-End Development** course on Coursera, which helped clarify key foundational concepts:
-- 🔍 How the web works (HTML, CSS, JavaScript basics)
-- 🗂️ File structuring, browser rendering, and accessibility
-- 🛠️ Developer tools like Git, GitHub, browser DevTools
-- 🗺️ Roadmap for front-end career progression
-
-📄 [View Certificate (PDF)](public/Coursera%208SV9FX571MXA.pdf)
-
+`Pandas` `PySpark` `Airflow` `dbt` `Cloud Fundamentals` `Data Warehouses`
 
 ---
 
-### 🧰 Learning HTML All Over Again — 20 Years Later  
-> “I started with Dreamweaver 20 years ago. Now I’m learning HTML like it’s brand new.”
+## `03 / WHAT I BRING`
 
-I completed a YouTube tutorial titled **HTML Full Course – Web Development for Beginners** (James McArthur).  
-Even though it was 2.5 hours long, I took two days to go through it, pausing to code along with each topic.
+| Experience | How it translates to Data Engineering |
+|---|---|
+| **20+ years in production workflows** | Thinking in pipelines, dependencies, hand-offs and failure points |
+| **Quality-control leadership** | Data quality, validation and reliable delivery |
+| **Process design** | Repeatable ETL/ELT and automation workflows |
+| **Cross-functional coordination** | Translating business requirements into structured systems |
+| **API & workflow automation** | Integrations, ingestion and operational data movement |
+| **SQL & analytics** | Querying, transforming and understanding business data |
 
-- Built small sections after every lesson
-- Learned about tags, nesting, accessibility, form fields
-- Made a basic multi-section landing page
+My advantage isn't starting from zero.
 
-🔗 [Tutorial Link](https://lnkd.in/gNBcp4qB)
-
----
-
-## 🧰 Skills So Far
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+It's bringing **systems thinking, operational discipline and real workflow experience** into a new technical domain.
 
 ---
 
-## 💬 Why This Repo Exists
+## `04 / TECH STACK`
 
-This isn’t a showcase. It’s a **public logbook** of my transition from no-code to real code.
+### Data & Engineering
 
-Every project here is a building block toward becoming a front-end developer.  
-I believe in learning in public — and in keeping things real, messy, and human.
+![Python](https://img.shields.io/badge/Python-learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-intermediate-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-analytics-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-working-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-next-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### Analytics & BI
+
+![Excel](https://img.shields.io/badge/Excel-data%20analytics-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-analytics-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
+![Tableau](https://img.shields.io/badge/Tableau-analytics-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-reporting-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+### Automation & Integration
+
+![Make](https://img.shields.io/badge/Make-automation-6D00CC?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-workflows-EA4B71?style=flat-square)
+![API](https://img.shields.io/badge/APIs-integration-111827?style=flat-square)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-learning-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-version%20control-181717?style=flat-square&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-foundation-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-foundation-1572B6?style=flat-square&logo=css&logoColor=white)
 
 ---
 
-> _"Enjoying the process so far. Never thought I will."_  
-— CodeJD
+## `05 / SELECTED WORK`
+
+### Automated Data & Business Workflows
+
+**Make.com · n8n · APIs · CRM · Email · Spreadsheets**
+
+Designed and deployed automated workflows that connect operational systems, move information between platforms, reduce manual data entry, and consolidate information for reporting.
+
+**What this demonstrates**
+
+- Extracting information from multiple sources
+- Moving data between systems through APIs
+- Applying transformation and routing logic
+- Creating repeatable operational workflows
+- Building consolidated reporting views
+
+> The tooling is no-code today; the engineering principles are the same ones I’m now learning to implement with Python and code-based pipelines.
+
+---
+
+### HTML & CSS Portfolio — Built from Scratch
+
+**HTML · CSS · Responsive Design · Netlify**
+
+My first portfolio built line-by-line rather than from a template.
+
+→ [Live site](https://jd-portfolio-demo.netlify.app/)  
+→ [Source code](https://github.com/JhulanD/ultimate-html-css-portfolio)
+
+---
+
+### Google Homepage Recreation
+
+**HTML · CSS · Flexbox · Browser Layout**
+
+A focused recreation project used to understand layout, positioning, spacing, browser rendering and responsive structure without relying on a framework.
+
+---
+
+## `06 / EXPERIENCE`
+
+### Freelance — Data & Automation Workflows / Media Operations Advisor
+**2024 → Present**
+
+- Built automated workflows using Make.com and n8n across CRM, email and spreadsheet data.
+- Connected multiple APIs and platforms into consolidated operational reporting.
+- Applied ETL-style thinking to business automation without a traditional code stack.
+- Advise animation studios using 20+ years of production-pipeline and quality-control experience.
+
+### Supervisor — Edit & Compositing / Production Operations
+**Wackytoon Studio · 2018 → 2024**
+
+- Directed end-to-end production workflows across multiple concurrent projects.
+- Established structured intake, review and delivery checkpoints.
+- Acted as a primary quality-control checkpoint between production and final output.
+- Maintained consistent technical and delivery standards across projects.
+
+### Team Lead — Editor & Compositor / Production Pipeline Management
+**Animatzione Pvt. Ltd. · 2008 → 2018**
+
+- Managed complete production pipelines from intake through final delivery.
+- Coordinated review and hand-off processes with international clients and broadcasters.
+- Maintained consistency across hundreds of episodic deliverables over a decade.
+
+---
+
+## `07 / LEARNING LOG`
+
+I’m deliberately building the engineering foundation in layers rather than collecting tools.
+
+```text
+[x] SQL fundamentals
+[x] MySQL
+[x] Excel for Analytics
+[x] Power BI / Tableau
+[x] API & workflow automation
+[>] Python fundamentals
+[>] Data modeling
+[>] Git / GitHub
+[ ] Pandas / NumPy
+[ ] Python + SQL
+[ ] ETL / ELT
+[ ] Cloud fundamentals
+[ ] Data warehouses
+[ ] PySpark
+[ ] Orchestration
+[ ] Modern data stack
+```
+
+This section will change as I build.
+
+---
+
+## `08 / CERTIFICATIONS & LEARNING`
+
+- **Intermediate SQL** — DataCamp
+- **Introduction to SQL** — DataCamp
+- **MySQL for Data Analytics** — Certificate
+- **Excel for Data Analytics** — Certificate
+- **Accessible Web Design & HTML/CSS/Tailwind CSS** — Scrimba
+- **Introduction to Front-End Development** — Meta
+- **Diploma in Multimedia** — Arena Multimedia
+
+Currently completing a structured learning plan covering **Python, databases, data modeling and Git/GitHub**.
+
+---
+
+## `09 / GITHUB`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JhulanD&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Jhulan's GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhulanD&layout=compact&hide_border=true&langs_count=6" height="165" alt="Jhulan's most used languages" />
+
+</div>
+
+---
+
+## `10 / OUTSIDE THE TERMINAL`
+
+Before data engineering, my career was built around **animation, editing, compositing and production operations**.
+
+That background still shapes how I approach technical work:
+
+**observe → structure → automate → validate → deliver**
+
+I’m interested in the point where **data, systems and real-world operations** meet.
+
+---
+
+## `11 / LET'S CONNECT`
+
+If you're interested in **data engineering, analytics engineering, automation, workflow systems, or career transitions into tech**, I'd be happy to connect.
+
+**LinkedIn:** [linkedin.com/in/jhulandey](https://www.linkedin.com/in/jhulandey/)  
+**Portfolio:** [jd-portfolio-demo.netlify.app](https://jd-portfolio-demo.netlify.app/)  
+**Email:** [jhulandey.now@outlook.in](mailto:jhulandey.now@outlook.in)
+
+---
+
+<div align="center">
+
+### Building the engineering layer, one system at a time.
+
+`learn → build → break → debug → document → repeat`
+
+</div>
