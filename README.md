@@ -23,18 +23,19 @@ I build systems that turn messy work into **structured, repeatable and measurabl
 </td>
 <td width="38%" valign="top">
 
-### 2026 / NOW
+### CONNECT WITH ME
 
-**Applied Scale Intelligence**  
-AI Automation · Present
+**LinkedIn**  
+[linkedin.com/in/jhulandey](https://www.linkedin.com/in/jhulandey/)
 
-**Next**
+**Portfolio**  
+[jd-portfolio-demo.netlify.app](https://jd-portfolio-demo.netlify.app/)
 
-`Pandas`  
-`Cloud`  
-`PySpark`  
-`Airflow`  
-`dbt`
+**GitHub**  
+[github.com/JhulanD](https://github.com/JhulanD)
+
+**Email**  
+[jhulandey.now@outlook.in](mailto:jhulandey.now@outlook.in)
 
 </td>
 </tr>
@@ -98,11 +99,6 @@ Data cleaning · querying · analysis · reporting
 
 ---
 
-## Connect me
-
-**LinkedIn** · [linkedin.com/in/jhulandey](https://www.linkedin.com/in/jhulandey/)  
-**Portfolio** · [jd-portfolio-demo.netlify.app](https://jd-portfolio-demo.netlify.app/)  
-**GitHub** · [github.com/JhulanD](https://github.com/JhulanD)  
-**Email** · [jhulandey.now@outlook.in](mailto:jhulandey.now@outlook.in)
-
+<div align="center">
 <sub>West Bengal, India · Open to entry-level data / analytics opportunities</sub>
+</div>
